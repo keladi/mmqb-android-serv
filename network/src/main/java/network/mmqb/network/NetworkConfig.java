@@ -5,5 +5,5 @@ package network.mmqb.network;
  */
 
 public class NetworkConfig {
-    public static String Server="http://gateway.serv.536pay.com1";
+    public static String Server="http://gateway.serv.536pay.comxxx";
 }
